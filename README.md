@@ -1,7 +1,10 @@
 # exact-bayesian-spatial-cox-process--rcpp
 
 **Rcpp Implementation of ‘Exact Bayesian Inference in Spatiotemporal Cox Processes Driven by Multivariate Gaussian Processes’**  
-*Authors: Flávio B. Gonçalves and Dani Gamerman (2018)*
+
+Flávio B. Gonçalves, Dani Gamerman, Exact Bayesian Inference in Spatiotemporal Cox Processes Driven by Multivariate Gaussian Processes, Journal of the Royal Statistical Society Series B: Statistical Methodology, Volume 80, Issue 1, January 2018, Pages 157–175, https://doi.org/10.1111/rssb.12237
+
+Code implemented by: Izabel Nolau.
 
 The code enables exact Bayesian inference for spatial Cox processes, with the models driven by multivariate Gaussian processes. The core algorithms are implemented using **Rcpp**, which integrates C++ code into R for optimized computational performance, particularly useful for large datasets and complex models.
 
